@@ -14,7 +14,7 @@ COPY src/ .
 
 EXPOSE 5000
 
-ENV GH_TOKEN=ghp-OdQJ71GTjhwoihfh99289Hzme
+ENV GH_TOKEN=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
 ENV TOPIC=inner-source
 ENV ORGANIZATION=myorg-innersource
 
